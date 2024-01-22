@@ -1,6 +1,3 @@
-/*
- * Program.java        20.10.2020
- *
  * Program to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
  *
@@ -17,7 +14,7 @@ public class Program {
 	/**
 	 * Calculates the area of a circle
 	 *
-	 * @param radius is a double numbers
+	 * @param adios is a double numbers
 	 * @return a double: the area of a circle
 	 */
 	public static double area(double radius) {
